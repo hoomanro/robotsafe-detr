@@ -1,2 +1,3 @@
 # Ignore everything inside the data directory
 data/
+.vscode/
